@@ -1,1 +1,1 @@
-# Segmenting_E-Commerce_customers
+Segmenting E-Commerce customers based on their purchase patterns
